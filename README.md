@@ -240,4 +240,4 @@ This repository serves as the official landing page for Ghost Recon Advanced War
 **Get the most recent version of Ghost Recon Advanced Warfighter 2 today!**
 
 ---
-**Last updated:** 2026-11-08 02:58:10 UTC
+**Last updated:** 2026-11-08 09:49:45 UTC
